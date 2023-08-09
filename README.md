@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tungbulupaul@gmail.com**
 
-- ⚡ Fun fact: A.k.a Zeus, for my love for Greek Myth, and i watch anime.
+- ⚡ Fun fact: i watch anime, and i'm an addict to Kendrick Lamar.
 
 
 ### 🛠 &nbsp;Languages and Tools
