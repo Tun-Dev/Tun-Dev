@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻 Front End Developer </h3>
 
-- 🔭 I’m currently working on Guavar
+- 🔭 I’m currently working with NOTI
 
 - 🌱 I’m currently using **Nextjs and Typescript**
 
