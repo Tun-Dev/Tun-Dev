@@ -1,4 +1,4 @@
-### Hi there, I'm Tungbulu Douye 👋
+### Hi there, I'm Douye Tungbulu 👋
 
 <!--
 **Tun-Dev/Tun-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>👨‍💻 Front End Developer </h3>
 
-- 🔭 I’m currently working with NOTI
+<!-- - 🔭 I’m currently working with NOTI -->
 
 - 🌱 I’m currently using **Nextjs and Typescript**
 
@@ -27,15 +27,17 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tungbulupaul@gmail.com**
 
-- ⚡ Fun fact: i watch anime, and i'm an addict to Kendrick Lamar.
+<!-- - ⚡ Fun fact: i watch anime, and i'm an addict to Kendrick Lamar. -->
 
 
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-%23CC6699?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <br>
 <br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
