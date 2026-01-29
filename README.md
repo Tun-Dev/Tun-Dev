@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-%23CC6699?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 
