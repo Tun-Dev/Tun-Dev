@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working with NOTI -->
 
-- 🌱 I’m currently doing alot
+- I’m currently doing alot
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/tun-dev?tab=repositories)
+- All of my projects are available at [github](https://github.com/tun-dev?tab=repositories)
 
-- 👯 I’m open to work and collaborations
+- I’m open to work and collaborations
 
-- 📫 How to reach me **tungbulupaul@gmail.com**
+- How to reach me **tungbulupaul@gmail.com**
 
 <!-- - ⚡ Fun fact: i watch anime, and i'm an addict to Kendrick Lamar. -->
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-#  🏻&nbsp; Let's Connect on 👨 🤝 👩 
+#  🏻&nbsp; Let's Connect on
 
 
 ## Social Media
