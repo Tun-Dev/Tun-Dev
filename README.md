@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>👨‍💻 Front End Developer </h3>
+<h3>👨‍💻 Software Engineer </h3>
 
 <!-- - 🔭 I’m currently working with NOTI -->
 
-- 🌱 I’m currently using **Nextjs and Typescript**
+- 🌱 I’m currently doing alot
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/tun-dev?tab=repositories)
 
